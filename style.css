@@ -1,0 +1,48 @@
+/* General styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  /* ID selector */
+  #main-header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Class selector */
+  .subtitle {
+    font-style: italic;
+    font-size: 1.2rem;
+  }
+  
+  /* Element selector */
+  p {
+    margin: 20px;
+    line-height: 1.6;
+  }
+  
+  /* Image styling */
+  .featured-img {
+    display: block;
+    max-width: 80%;
+    height:min-content;
+    margin: 20px auto;
+    border: 4px solid #003366;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #ddd;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+  }
+  
